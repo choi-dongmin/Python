@@ -160,5 +160,5 @@ print("\a")
 
 ## 참고
 
-[생황코딩(https://www.opentutorials.org/course/1750/9615)
+[생활코딩](https://www.opentutorials.org/course/1750/9615)
 
