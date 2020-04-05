@@ -49,7 +49,7 @@ user_id = "egoing"
 user_nick = "igoing"
 
 if user_id == in_id and user_pw == in_id:
-    print("승인")
+	print("승인")
 else:
 	print("불가")
 
