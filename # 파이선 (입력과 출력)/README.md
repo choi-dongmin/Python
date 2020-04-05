@@ -54,7 +54,7 @@ user_pw = "123"
 
 if user_id == in_id:
     if user_pw == in_id:
-    print("승인")
+    	print("승인")
 else:
 	print("거부")
 
