@@ -53,7 +53,7 @@ user_id = "doreme"
 user_pw = "123"
 
 if user_id == in_id:
-    if user_pw == in_id:
+    if user_pw == in_pw:
     	print("승인")
 else:
 	print("거부")
