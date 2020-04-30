@@ -92,7 +92,7 @@ for member in members :
 		print(_id,"승인")
 		import sys
 		sys.exit()
-print ("Try again")
+	print ("Try again")
 
 
 login(input_id)
