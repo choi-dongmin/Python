@@ -7,7 +7,7 @@ i = 0
 members = ['egoing','leezche','graphttie']
 
 while i < len(members):
-	print(member[i]) 
+	print(members[i]) 
 	i = i + 1
 
 
@@ -29,11 +29,11 @@ i < len(members): 로 인해서 0,1,2 번째 원소가 출력되면 반복문은
 이번엔 while 보다 조금 더 효율적인 반복문 for 를 사용해 볼 것이다
 
 ```
-i = 0
+
 members = ['egoing','leezche','graphttie']
 
 for member in members :
-	print(members)
+	print(member)
 ```
 
 위의 예문을 보자 for 은 while 처럼 반복문을 시작하겠다는 문법이다 그리고 member 는 새로운 컨테이너라고 볼 수 있다
