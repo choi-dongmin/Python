@@ -87,12 +87,12 @@ input_id = input("아이디 입력 : ")
 def login (_id):
 	members = ['egoing','megoing']
 
-for member in members :
-	if member == _id:
-		print(_id,"승인")
-		import sys
-		sys.exit()
-	print ("Try again")
+	for member in members :
+		if member == _id:
+			print(_id,"승인")
+			import sys
+			sys.exit()
+		print ("Try again")
 
 
 login(input_id)
