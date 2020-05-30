@@ -10,7 +10,7 @@ class C1:
 class C2(C1):
 	pass
 
-o = c2()
+o = C2()
 print(o.m())	
 ```
 
