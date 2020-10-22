@@ -2,7 +2,7 @@
 
 ## 객체지향이란 ?
 
-Objeckt Oriented Programming 객체라는 것을 중심으로 프로그래밍하는 기법 이라고 설명 할 수 있다.
+Object Oriented Programming 객체라는 것을 중심으로 프로그래밍하는 기법 이라고 설명 할 수 있다.
 
 그렇다면 그 객체 지향 프로그래밍 이란 무엇인가?
 
